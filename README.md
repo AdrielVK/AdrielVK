@@ -13,7 +13,7 @@ software que escale y sea mantenible.
 - 🏗️ Implementando Clean Architecture + DDD + CQRS 
 - 📐 Con base en análisis y diseño de sistemas, modelado UML y diseño de bases de datos
 - 🎯 Buscando mi primer rol profesional como desarrollador backend o fullstack
-- 📫 Contacto: [adrielvallejoskehmeier@gamil.com](mailto:adrielvallejoskehmeier@gamil.com)
+- 📫 Contacto: [adrielvallejoskehmeier@gmail.com](mailto:adrielvallejoskehmeier@gmail.com)
 
 <p>
   <a href="mailto:tu@email.com">
