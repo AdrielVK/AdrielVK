@@ -6,19 +6,16 @@
 <p>
 Estudiante avanzado de Ingeniería en Sistemas con foco en arquitectura de software.
 Desarrollo aplicaciones full-stack y me interesa el <em>por qué</em> detrás de las decisiones técnicas:
-Clean Architecture, DDD y CQRS no como buzzwords, sino como herramientas para construir
+No como buzzwords, sino como herramientas para construir
 software que escale y sea mantenible.
 </p>
 
-- 🏗️ Actualmente implementando Clean Architecture + DDD + CQRS en un proyecto propio
+- 🏗️ Implementando Clean Architecture + DDD + CQRS 
 - 📐 Con base en análisis y diseño de sistemas, modelado UML y diseño de bases de datos
 - 🎯 Buscando mi primer rol profesional como desarrollador backend o fullstack
-- 📫 Contacto: [tu@email.com](mailto:tu@email.com)
+- 📫 Contacto: [adrielvallejoskehmeier@gamil.com](mailto:adrielvallejoskehmeier@gamil.com)
 
 <p>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:tu@email.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
